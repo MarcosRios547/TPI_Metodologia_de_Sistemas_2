@@ -1,0 +1,28 @@
+{
+    "s": [
+        {
+            "id": 1,
+            "est": 1,
+            "t": 2,
+            "p": 3,
+            "d": "Motivo del pedido: Solapamiento horario entre la materia actual y otra asignatura del plan de estudios correspondiente al mismo cuatrimestre. Se requiere el cambio para evitar la superposición de cursado.",
+            "r": 1,
+            "e": 1,
+            "f": "08/11/2026"
+        }
+    ],
+    "e": [
+        {
+            "id": 1,
+            "nombre": "Juan Perez",
+            "mail": "juanperez@gmail.com"
+        }
+    ],
+    "r": [
+        {
+            "id": 1,
+            "nombre": "Marta Perez",
+            "area": "Programación"
+        }
+    ]
+}
